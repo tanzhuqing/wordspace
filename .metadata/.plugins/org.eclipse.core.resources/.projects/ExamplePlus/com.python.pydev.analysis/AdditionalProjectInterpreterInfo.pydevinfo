@@ -1,0 +1,37 @@
+-- VERSION_4
+-- START DISKCACHE_2
+D:\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\ExamplePlus\com.python.pydev.analysis\v2_indexcache
+ExamplePlus.wsgi|1464180633249774000|D:\workspace\ExamplePlus\ExamplePlus\wsgi.py
+ExamplePlus.settings|1464180633343375000|D:\workspace\ExamplePlus\ExamplePlus\settings.py
+ExamplePlus.urls|1464180633249774000|D:\workspace\ExamplePlus\ExamplePlus\urls.py
+manage|1464180633234174000|D:\workspace\ExamplePlus\manage.py
+ExamplePlus.__init__|1464180633249774000|D:\workspace\ExamplePlus\ExamplePlus\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+2=ExamplePlus.wsgi
+1=ExamplePlus.settings
+3=ExamplePlus.urls
+-- END DICTIONARY
+-- START TREE 1
+16
+all|1|ALLOWED_HOSTS!11@
+app|1|application!19@
+bas|1|BASE_DIR!11@
+dat|1|DATABASES!11@
+deb|1|DEBUG!11@
+ins|1|INSTALLED_APPS!11@
+lan|1|LANGUAGE_CODE!11@
+mid|1|MIDDLEWARE_CLASSES!11@
+roo|1|ROOT_URLCONF!11@
+sec|1|SECRET_KEY!11@
+sta|1|STATIC_URL!11@
+tem|1|TEMPLATES!11@
+tim|1|TIME_ZONE!11@
+url|1|urlpatterns!27@
+use|3|USE_L10N!11@USE_I18N!11@USE_TZ!11@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,16 @@
+import requests 
+import string
+urls = []
+
+def getArtisUrls():
+    u = []
+    for i in string.ascii_lowercase:
+        u.append("http://www.kuwo.cn/geci/artist_"+i+".html")
+    return u    
+        
+        
+        
+getArtisUrls()    
+    
+    
+    

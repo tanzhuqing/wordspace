@@ -1,0 +1,19 @@
+-- VERSION_4
+-- START DISKCACHE_2
+D:\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\MachineLearningInAction\com.python.pydev.analysis\v2_indexcache
+com.__init__|1457707248942144000|D:\workspace\MachineLearningInAction\src\com\__init__.py
+com.knn.__init__|1457709016994078000|D:\workspace\MachineLearningInAction\src\com\knn\__init__.py
+com.knn.kNN|1457708972001158000|D:\workspace\MachineLearningInAction\src\com\knn\kNN.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=com.knn.kNN
+-- END DICTIONARY
+-- START TREE 1
+2
+cla|1|classify0!10@
+cre|1|createDataSet!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

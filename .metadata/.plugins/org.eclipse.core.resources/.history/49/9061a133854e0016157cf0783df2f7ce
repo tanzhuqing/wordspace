@@ -1,0 +1,8 @@
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn import import linear_model
+
+#X is the 10X10 Hilbert matrix
+x = 1./(np.arange(1,11) + np.arange(0,10)[:,np.newaxis])
+y = np.ones(10)
+

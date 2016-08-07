@@ -1,0 +1,17 @@
+-- VERSION_4
+-- START DISKCACHE_2
+D:\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Spider\com.python.pydev.analysis\v2_indexcache
+scrapyDemo|1464275618079922000|D:\workspace\Spider\src\scrapyDemo.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=scrapyDemo
+-- END DICTIONARY
+-- START TREE 1
+2
+get|2|getAllArtist!10@getArtistUrls!10@
+hea|1|header!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

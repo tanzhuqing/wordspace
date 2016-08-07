@@ -1,0 +1,48 @@
+#-*_coding:utf-8*-
+import requests 
+import string
+from lxml import etree
+
+
+# class spider(object):
+#     def __init__(self):
+#         print u'��ʼ��ȡ����'
+
+def getArtistUrls(self):
+    u = [] 
+    header = {"User-Agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2383.0 Safari/537.36"}
+    for i in string.ascii_lowercase:
+       url = "http://www.kuwo.cn/geci/artist_"+i+".htm"
+       html = requests.get(url,params = header)
+       selector = etree.HTML(html.text)
+       a = selector.xpath('//*[@id="pageDiv"]/*')
+       for j in [1..a.length]:
+           u.append("http://www.kuwo.cn/geci/artist_"+i+"_"+j+".htm")
+    return u    
+   
+   
+   
+#getArtistUrls()  
+u = [] 
+header = {"User-Agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2383.0 Safari/537.36"}
+for i in string.ascii_lowercase:
+       url = "http://www.kuwo.cn/geci/artist_"+i+".htm"
+       html = requests.get(url,params = header)
+       selector = etree.HTML(html.text)
+       a = selector.xpath('//*[@id="pageDiv"]/*')
+       for j in range(1,len(a)):
+           u.append("http://www.kuwo.cn/geci/artist_"+i+"_"+j+".htm")
+       
+for s in u:
+    print s
+#         
+# def getAllArtist(self):
+#     u=[]
+#     for url in getArtistUrls():
+#         
+            
+     
+        
+  
+    
+    

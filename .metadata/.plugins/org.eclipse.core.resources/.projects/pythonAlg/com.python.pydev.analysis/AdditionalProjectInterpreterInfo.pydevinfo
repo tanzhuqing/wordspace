@@ -1,0 +1,44 @@
+-- VERSION_4
+-- START DISKCACHE_2
+D:\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\pythonAlg\com.python.pydev.analysis\v2_indexcache
+py1.plot_ridge_path|1469025202927947000|D:\workspace\pythonAlg\py1\plot_ridge_path.py
+py1.__init__|1468933931894641000|D:\workspace\pythonAlg\py1\__init__.py
+2.__init__|1460553226213403000|D:\workspace\pythonAlg\2\__init__.py
+py1.test|1468933994038195000|D:\workspace\pythonAlg\py1\test.py
+4.__init__|1466846895450154000|D:\workspace\pythonAlg\4\__init__.py
+4.4|1466851850720038000|D:\workspace\pythonAlg\4\4.py
+py1.plot_ols|1469024092034408000|D:\workspace\pythonAlg\py1\plot_ols.py
+py1.sktest|1469020450721137000|D:\workspace\pythonAlg\py1\sktest.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+1=py1.plot_ridge_path
+2=py1.__init__
+6=py1.test
+3=4.4
+5=py1.plot_ols
+4=py1.sktest
+-- END DICTIONARY
+-- START TREE 1
+17
+X|1|X!11@
+a|1|a!19@
+alp|1|alphas!11@
+ax|1|ax!11@
+b|1|b!19@
+boa|1|board!27@
+clf|2|clf!11@clf!35@
+coe|1|coefs!11@
+cov|1|cover!26@
+dia|6|diabetes_x_test!43@diabetes_x!43@diabetes_y_train!43@diabetes_x_train!43@diabetes_y_test!43@diabetes!43@
+ins|2|ins_sort!26@ins_sort_res!26@
+mod|1|model!51@
+n_a|1|n_alphas!11@
+reg|1|regr!43@
+sel|2|sel_sort!26@sel_sort_rec!26@
+tra|1|trav!26@
+y|1|y!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
