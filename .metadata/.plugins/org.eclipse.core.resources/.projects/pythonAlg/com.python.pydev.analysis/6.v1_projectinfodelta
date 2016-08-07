@@ -1,0 +1,11 @@
+INSTUPpy1.plot_ridge_path
+D:\workspace\pythonAlg\py1\plot_ridge_path.py
+INFOS:&&3|1|2|0&&3|3|2|0&&3|4|2|0&&3|5|2|0&&3|6|2|0&&3|7|2|0&&3|8|2|0
+py1.plot_ridge_path=2
+coefs=7
+clf=6
+alphas=5
+n_alphas=4
+ax=8
+X=1
+y=3

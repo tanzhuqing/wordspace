@@ -1,0 +1,11 @@
+INSTUPpy1.plot_ols
+D:\workspace\pythonAlg\py1\plot_ols.py
+INFOS:&&3|1|2|0&&3|3|2|0&&3|4|2|0&&3|5|2|0&&3|6|2|0&&3|7|2|0&&3|8|2|0
+diabetes_y_train=6
+diabetes_x_train=4
+diabetes_x=3
+diabetes=1
+regr=8
+diabetes_x_test=5
+diabetes_y_test=7
+py1.plot_ols=2
